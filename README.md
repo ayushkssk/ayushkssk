@@ -1,11 +1,10 @@
 # Hi there 👋, I'm Ayush Kumar
 
 <div align="center">
-  <img src="profile.png" alt="Ayush Kumar" style="border-radius: 50%; width: 200px;">
+  <img src="profile.png" alt="Ayush Kumar" style="border-radius: 50%; width: 200px; border: 3px solid #00ff00; box-shadow: 0 0 20px #00ff00; padding: 5px; background: linear-gradient(145deg, #1a1a1a, #4a4a4a); margin: 20px 0;" />
 </div>
 
 <h3 align="center">
-  I code in
   <a href="https://github.com/ayushkssk">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Development+%7C+MERN+Stack;Android+Development+%7C+Flutter;iOS+Development+%7C+Swift;Frontend+%7C+React+%7C+Next.js;Backend+%7C+Node.js+%7C+Django" alt="Typing SVG" />
   </a>
