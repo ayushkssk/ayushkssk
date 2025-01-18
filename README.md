@@ -5,7 +5,7 @@
 </div>
 
 ## About Me 👨‍💻
-Dedicated IT Field District Manager with a proven track record in overseeing and optimizing on-site operations, ensuring seamless implementation of IT solutions and driving team performance for enhanced productivity and client satisfaction. Proficient in strategic planning, resource allocation, and adept at fostering collaborative relationships to achieve organizational objectives.
+Dedicated IT Field District Manager with a proven track record in overseeing and optimizing on-site operations. Experienced in ensuring seamless implementation of IT solutions and driving team performance for enhanced productivity and client satisfaction. Proficient in strategic planning and resource allocation, with expertise in fostering collaborative relationships to achieve organizational objectives.
 
 ## Contact Information 📫
 - 📧 Email: Ayushkssk@gmail.com
@@ -16,17 +16,17 @@ Dedicated IT Field District Manager with a proven track record in overseeing and
 ## Professional Experience 💼
 
 ### Implementation Manager at Plus91 Technologies Pvt Ltd. (April 2023 - Present)
-**Key responsibilities:**
-- Led a proficient on-site project management team, ensuring the seamless implementation and integration of IT solutions in the district, optimizing workflows and meeting project timelines to exceed client expectations
-- Directed and mentored a dynamic team of IT professionals, fostering a collaborative and high-performance work environment
-- Implemented strategic resource allocation and skill development initiatives, resulting in increased team efficiency and overall project success
+**Key Responsibilities:**
+- Leading a proficient on-site project management team, ensuring seamless implementation and integration of IT solutions across the district, optimizing workflows, and meeting project timelines to exceed client expectations
+- Directing and mentoring a dynamic team of IT professionals, fostering a collaborative and high-performance work environment
+- Implementing strategic resource allocation and skill development initiatives, resulting in increased team efficiency and overall project success
 
-### IT Administrator & Stock Manager at DevWingsBuildangle Pvt.Ltd. (March 2021 - December 2022)
-**Key responsibilities:**
-- Maintained and organized numerous office files
-- Constantly updated the company's contact, mailing & Stock Transaction with workers
-- Managed Unix/Linux system problems like windows and software installation
-- Collaborated with IT teams and vendors to evaluate and implement new technologies, staying current with industry trends and best practices to enhance the organization's overall efficiency and effectiveness
+### IT Administrator & Stock Manager at DevWingsBuildangle Pvt. Ltd. (March 2021 - December 2022)
+**Key Responsibilities:**
+- Maintained and organized numerous office files and documentation
+- Consistently updated the company's contact database, mailing lists, and stock transactions with workers
+- Managed Unix/Linux system administration, including Windows and software installations
+- Collaborated with IT teams and vendors to evaluate and implement new technologies, staying current with industry trends and best practices to enhance organizational efficiency and effectiveness
 
 ## Skills 🛠️
 
@@ -84,7 +84,7 @@ Dedicated IT Field District Manager with a proven track record in overseeing and
 
 ## Education 🎓
 - **H.D. Jain College**
-  - Bachelors In Computer Applications
+  - Bachelor of Computer Applications
   - Completed in 2020
 
 - **Jayaprakash College**
@@ -92,8 +92,8 @@ Dedicated IT Field District Manager with a proven track record in overseeing and
   - Completed in 2017
 
 ## Achievements 🏆
-- Helped in successful implementation of new healthcare app named BHAVYA in all the districts of Bihar
-- Received recognition for effectively streamlining IT processes and optimizing resource allocation, resulting in cost savings and improved operational efficiency for the company
+- Successfully led the implementation of a new healthcare app named BHAVYA across all districts of Bihar
+- Received recognition for effectively streamlining IT processes and optimizing resource allocation, resulting in significant cost savings and improved operational efficiency for the company
 
 ## GitHub Stats 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkssk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
