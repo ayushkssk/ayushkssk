@@ -5,7 +5,15 @@
 </div>
 
 ## About Me 👨‍💻
-Dedicated IT Field District Manager with a proven track record in overseeing and optimizing on-site operations. Experienced in ensuring seamless implementation of IT solutions and driving team performance for enhanced productivity and client satisfaction. Proficient in strategic planning and resource allocation, with expertise in fostering collaborative relationships to achieve organizational objectives.
+Tech entrepreneur and full-stack developer with a passion for transforming ideas into digital reality. As the founder of IT4B.in and a seasoned IT professional, I bridge the gap between business needs and technological solutions. My journey spans from hands-on development to strategic implementation, specializing in healthcare tech solutions and digital transformation.
+
+💡 **What I Do:**
+- Build scalable web applications and innovative digital solutions
+- Transform businesses through strategic IT implementation
+- Lead development teams with a focus on excellence
+- Create healthcare technology solutions that matter
+
+🚀 **My Philosophy:** "Technology should simplify life, not complicate it. Every line of code I write aims to make a positive impact."
 
 ## Contact Information 📫
 - 📧 Email: Ayushkssk@gmail.com
@@ -14,6 +22,16 @@ Dedicated IT Field District Manager with a proven track record in overseeing and
 - 🌐 GitHub: [github.com/ayushkssk](https://github.com/ayushkssk)
 
 ## Professional Experience 💼
+
+### Founder & Tech Lead at IT4B.in (2023 - Present)
+🌐 [it4b.in](https://it4b.in)
+**Key Responsibilities:**
+- Founded and managing IT4B (Innovate Technology For Business), a technology solutions company
+- Providing comprehensive web development and app development services to businesses
+- Leading digital transformation initiatives for clients
+- Delivering innovative technology solutions tailored to business needs
+- Managing end-to-end project lifecycle from conception to deployment
+- Building and maintaining client relationships while ensuring high-quality service delivery
 
 ### Developer at BHAVYA TECHNOLOGIES PRIVATE LIMITED (January 2024 - Present)
 **Key Responsibilities:**
