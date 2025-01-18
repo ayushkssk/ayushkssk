@@ -1,33 +1,53 @@
 # Hi there 👋, I'm Ayush Kumar
 
-## About Me 👨‍💻
-- 🔭 I'm currently working as an Implementation Manager at Plus91 Technologies Pvt Ltd
-- 🌱 I'm passionate about IT solutions and project management
-- 💬 Ask me about project management, IT implementation, and team leadership
-- 📫 How to reach me: Ayushkssk@gmail.com
-- ⚡ Fun fact: I love turning complex problems into simple solutions!
-
-## Connect with me 🤝
-<div id="badges">
-  <a href="https://github.com/ayushkssk">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ayushkssk">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
+<div align="center">
+  <img src="profile.png" alt="Ayush Kumar" style="border-radius: 50%; width: 200px;">
 </div>
 
+## About Me 👨‍💻
+Dedicated IT Field District Manager with a proven track record in overseeing and optimizing on-site operations, ensuring seamless implementation of IT solutions and driving team performance for enhanced productivity and client satisfaction. Proficient in strategic planning, resource allocation, and adept at fostering collaborative relationships to achieve organizational objectives.
+
+## Contact Information 📫
+- 📧 Email: Ayushkssk@gmail.com
+- 📱 Phone: +91 7768866355
+- 💼 LinkedIn: [www.linkedin.com/in/ayushkssk](https://www.linkedin.com/in/ayushkssk)
+- 🌐 GitHub: [github.com/ayushkssk](https://github.com/ayushkssk)
+
 ## Professional Experience 💼
-- Implementation Manager at Plus91 Technologies Pvt Ltd. (April 2023 - Present)
-- IT Administrator & Stock Manager at DevWingsBuildangle Pvt.Ltd. (March 2021 - December 2022)
 
-## Education 🎓
-- Bachelors in Computer Applications from H.D. Jain College (2020)
-- Intermediate from Jayaprakash College (2017)
+### Implementation Manager at Plus91 Technologies Pvt Ltd. (April 2023 - Present)
+**Key responsibilities:**
+- Led a proficient on-site project management team, ensuring the seamless implementation and integration of IT solutions in the district, optimizing workflows and meeting project timelines to exceed client expectations
+- Directed and mentored a dynamic team of IT professionals, fostering a collaborative and high-performance work environment
+- Implemented strategic resource allocation and skill development initiatives, resulting in increased team efficiency and overall project success
 
-## Skills & Technologies 🛠️
+### IT Administrator & Stock Manager at DevWingsBuildangle Pvt.Ltd. (March 2021 - December 2022)
+**Key responsibilities:**
+- Maintained and organized numerous office files
+- Constantly updated the company's contact, mailing & Stock Transaction with workers
+- Managed Unix/Linux system problems like windows and software installation
+- Collaborated with IT teams and vendors to evaluate and implement new technologies, staying current with industry trends and best practices to enhance the organization's overall efficiency and effectiveness
 
-### Frontend Development
+## Skills 🛠️
+
+### Professional Skills
+- Project Management
+- Data Mining and Analysis
+- Quality Assurance
+- Troubleshooting
+- Strategic Planning
+- Resource Allocation
+
+### Soft Skills
+- Leadership
+- Decision Making
+- Communication
+- Observation
+- Team Collaboration
+
+### Technical Skills & Technologies
+
+#### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,7 +59,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### Backend & Databases
+#### Backend & Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -53,7 +73,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools & Technologies
+#### Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -62,5 +82,21 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## Education 🎓
+- **H.D. Jain College**
+  - Bachelors In Computer Applications
+  - Completed in 2020
+
+- **Jayaprakash College**
+  - Intermediate
+  - Completed in 2017
+
+## Achievements 🏆
+- Helped in successful implementation of new healthcare app named BHAVYA in all the districts of Bihar
+- Received recognition for effectively streamlining IT processes and optimizing resource allocation, resulting in cost savings and improved operational efficiency for the company
+
 ## GitHub Stats 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkssk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+⭐️ From [Ayush Kumar](https://github.com/ayushkssk)
