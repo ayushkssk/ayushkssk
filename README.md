@@ -15,7 +15,15 @@ Dedicated IT Field District Manager with a proven track record in overseeing and
 
 ## Professional Experience 💼
 
-### Implementation Manager at Plus91 Technologies Pvt Ltd. (April 2023 - Present)
+### Developer at BHAVYA TECHNOLOGIES PRIVATE LIMITED (January 2024 - Present)
+**Key Responsibilities:**
+- Developing and maintaining web applications using modern JavaScript frameworks and libraries
+- Implementing responsive and user-friendly interfaces using React.js and related technologies
+- Collaborating with cross-functional teams to deliver high-quality software solutions
+- Contributing to the development of healthcare-focused applications and systems
+- Participating in code reviews and implementing best practices for code quality
+
+### Implementation Manager at Plus91 Technologies Pvt Ltd. (April 2023 - December 2023)
 **Key Responsibilities:**
 - Leading a proficient on-site project management team, ensuring seamless implementation and integration of IT solutions across the district, optimizing workflows, and meeting project timelines to exceed client expectations
 - Directing and mentoring a dynamic team of IT professionals, fostering a collaborative and high-performance work environment
